@@ -1,7 +1,1 @@
-new content again
-need to add newconten
-<<<<<<< HEilalalaAD
 hello hello
-=======
-this is first day of class
->>>>>>> 9c4c880e17259b323da1c19bffe0e84bb05fa094
